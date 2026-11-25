@@ -1,6 +1,6 @@
 # 🛵 OffRoute (ROTA DIŞI) — Courier & Delivery Simulation
 
-![OffRoute Banner](PlayStore_Assets/feature_graphic_1024x500.png)
+![OffRoute Banner](feature_graphic_1024x500.png)
 
 ![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Engine](https://img.shields.io/badge/Made%20with-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
@@ -25,11 +25,11 @@
 
 | Ana Menü | Garaj & Yükseltmeler |
 | :---: | :---: |
-| ![Ana Menü](PlayStore_Assets/screenshot_01_main_menu.png) | ![Garaj](PlayStore_Assets/screenshot_02_garage.png) |
+| ![Ana Menü](screenshot_01_main_menu.png) | ![Garaj](screenshot_02_garage.png) |
 
 | Gündüz Teslimatı | Gece Vardiyası | Polis Kontrol Noktası |
 | :---: | :---: | :---: |
-| ![Gündüz Teslimatı](PlayStore_Assets/screenshot_03_day_delivery.png) | ![Gece Vardiyası](PlayStore_Assets/screenshot_04_night_shift.png) | ![Polis Kontrol Noktası](PlayStore_Assets/screenshot_05_police_checkpoint.png) |
+| ![Gündüz Teslimatı](screenshot_03_day_delivery.png) | ![Gece Vardiyası](screenshot_04_night_shift.png) | ![Polis Kontrol Noktası](screenshot_05_police_checkpoint.png) |
 
 ---
 
@@ -47,4 +47,4 @@
 
 ## 📲 İndir & Dene
 
-- 🔗 **Google Play Store:** *(Yakında)*
+- 🔗 **Google Play Store:** *(Yakında / Link buraya)*
