@@ -1,50 +1,50 @@
-# 🛵 OffRoute (ROTA DIŞI) — Courier & Delivery Simulation
+# 🛵 OffRoute — City Courier & Delivery Simulation
 
 ![OffRoute Banner](feature_graphic_1024x500.png)
 
 ![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Engine](https://img.shields.io/badge/Made%20with-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Language](https://img.shields.io/badge/Languages-TR%20%7C%20EN-blue?style=for-the-badge)
+![Language](https://img.shields.io/badge/Languages-EN%20%7C%20TR-blue?style=for-the-badge)
 
-**OffRoute (ROTA DIŞI)**, Unity ile geliştirilen Android odaklı bir şehir içi kurye ve teslimat simülasyonudur. Oyuncular scooter ile yoğun şehir trafiğinde siparişleri zamanında teslim eder, dinamik yol olaylarıyla başa çıkar ve vardiya performansına göre kazanç elde eder.
-
----
-
-## ✨ Öne Çıkan Özellikler
-
-- 🛵 **Gerçekçi Scooter Sürüşü:** Mobil joystick, fren, turbo ve korna kontrolleri
-- 🗺️ **Akıllı Navigasyon:** Sokak ağı üzerinde A* yol bulma, mini harita ve 3D hedef işaretçileri
-- 📦 **Sipariş & Ekonomi Sistemi:** Teslimat süreleri, combo çarpanları, vardiya puanlaması ve scooter yükseltmeleri
-- 🚦 **Dinamik Şehir:** Akan trafik, yayalar, gece-gündüz döngüsü ve yol çalışması olayları
-- 🌍 **Çoklu Dil Desteği:** Cihaz dilini otomatik algılayan Türkçe (TR) ve İngilizce (EN) lokalizasyon
-- 📳 **Mobil Deneyim:** Android titreşim (haptic feedback) ve dokunmatik arayüz optimizasyonu
+**OffRoute** is an Android-focused urban courier and delivery simulation built with Unity. Ride your scooter through busy city traffic, deliver orders on time, handle dynamic road events, and grow your earnings based on shift performance.
 
 ---
 
-## 📸 Ekran Görüntüleri
+## ✨ Key Features
 
-| Ana Menü | Garaj & Yükseltmeler |
+- 🛵 **Arcade Scooter Handling:** Responsive mobile joystick, brake, turbo boost, and horn controls
+- 🗺️ **Smart Street Navigation:** A* pathfinding across the street network with a live minimap and 3D target beacons
+- 📦 **Orders & Economy System:** Timed deliveries, combo multipliers, shift grading, upgrades, and unlockable bikes/cosmetics
+- 🚦 **Living City & Dynamic Events:** Traffic, pedestrians, day/sunset/night cycles, roadworks, rain, and police checkpoints
+- 🌍 **Multi-Language Support:** Full English (EN) and Turkish (TR) localization with automatic device language detection
+- 📳 **Mobile Polish:** Android haptic feedback and touch-friendly HUD scaling
+
+---
+
+## 📸 Screenshots
+
+| Main Menu | 3D Garage & Upgrades |
 | :---: | :---: |
-| ![Ana Menü](screenshot_01_main_menu.png) | ![Garaj](screenshot_02_garage.png) |
+| ![Main Menu](screenshot_01_main_menu.png) | ![Garage](screenshot_02_garage.png) |
 
-| Gündüz Teslimatı | Gece Vardiyası | Polis Kontrol Noktası |
+| Day Delivery | Night Shift | Traffic Control |
 | :---: | :---: | :---: |
-| ![Gündüz Teslimatı](screenshot_03_day_delivery.png) | ![Gece Vardiyası](screenshot_04_night_shift.png) | ![Polis Kontrol Noktası](screenshot_05_police_checkpoint.png) |
+| ![Day Delivery](screenshot_03_day_delivery.png) | ![Night Shift](screenshot_04_night_shift.png) | ![Police Checkpoint](screenshot_05_police_checkpoint.png) |
 
 ---
 
-## 🎮 Kontroller
+## 🎮 Controls
 
-| Eylem | 📱 Mobil Kontrol |
+| Action | 📱 Mobile Control |
 | :--- | :--- |
-| **Sürüş** | Ekran Joystick'i |
-| **Fren** | `FREN` Düğmesi |
-| **Teslim Et** | Teslimat Düğmesi |
-| **Turbo** | Turbo Düğmesi |
-| **Korna** | Korna Düğmesi |
+| **Ride & Steer** | On-Screen Virtual Joystick |
+| **Brake** | `BRAKE` Button |
+| **Pick Up / Deliver** | Delivery Action Button |
+| **Turbo Boost** | Turbo Button |
+| **Horn** | Horn Button |
 
 ---
 
-## 📲 İndir & Dene
+## 📲 Download & Try
 
-- 🔗 **Google Play Store:** *(Yakında / Link buraya)*
+- 🔗 **Google Play Store:** *(Coming Soon)*
