@@ -1,5 +1,7 @@
 # 🛵 OffRoute (ROTA DIŞI) — Courier & Delivery Simulation
 
+![OffRoute Banner](PlayStore_Assets/feature_graphic_1024x500.png)
+
 ![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Engine](https://img.shields.io/badge/Made%20with-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Language](https://img.shields.io/badge/Languages-TR%20%7C%20EN-blue?style=for-the-badge)
@@ -21,33 +23,28 @@
 
 ## 📸 Ekran Görüntüleri
 
-| Şehir & Sürüş | Navigasyon & Teslimat |
+| Ana Menü | Garaj & Yükseltmeler |
 | :---: | :---: |
-| ![Ekran 1](screenshots/ekran1.png) | ![Ekran 2](screenshots/ekran2.png) |
+| ![Ana Menü](PlayStore_Assets/screenshot_01_main_menu.png) | ![Garaj](PlayStore_Assets/screenshot_02_garage.png) |
 
-| Gece Vardiyası | Yükseltmeler & Menü |
-| :---: | :---: |
-| ![Ekran 3](screenshots/ekran3.png) | ![Ekran 4](screenshots/ekran4.png) |
+| Gündüz Teslimatı | Gece Vardiyası | Polis Kontrol Noktası |
+| :---: | :---: | :---: |
+| ![Gündüz Teslimatı](PlayStore_Assets/screenshot_03_day_delivery.png) | ![Gece Vardiyası](PlayStore_Assets/screenshot_04_night_shift.png) | ![Polis Kontrol Noktası](PlayStore_Assets/screenshot_05_police_checkpoint.png) |
 
 ---
 
 ## 🎮 Kontroller
 
-| Eylem | 📱 Mobil | ⌨️ Klavye (Test) |
-| :--- | :--- | :--- |
-| **Sürüş** | Ekran Joystick'i | `WASD` / Yön Tuşları |
-| **Fren** | `FREN` Düğmesi | `Space` |
-| **Teslim Et** | Teslimat Düğmesi | `E` |
-| **Turbo** | Turbo Düğmesi | `Left Shift` |
-| **Korna** | Korna Düğmesi | `H` |
+| Eylem | 📱 Mobil Kontrol |
+| :--- | :--- |
+| **Sürüş** | Ekran Joystick'i |
+| **Fren** | `FREN` Düğmesi |
+| **Teslim Et** | Teslimat Düğmesi |
+| **Turbo** | Turbo Düğmesi |
+| **Korna** | Korna Düğmesi |
 
 ---
 
 ## 📲 İndir & Dene
 
-- 🔗 **Google Play Store:** *(Yakında / Link buraya)*
-- 📦 **APK İndir:** Sağ taraftaki **[Releases](../../releases)** bölümünden en güncel `.apk` dosyasını indirip Android cihazında deneyebilirsin.
-
----
-
-> 🔒 *Bu depo yalnızca oyunun tanıtım ve vitrin sayfasıdır. Kaynak kodlar özel (Private) depoda saklanmaktadır.*****
+- 🔗 **Google Play Store:** *(Yakında)*
